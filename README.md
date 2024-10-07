@@ -1,2 +1,2 @@
 # api
-dl/20240704gJD5oSZl
+https://github.com/MahlxAppie/aiovd/blob/master/app/build.gradle
