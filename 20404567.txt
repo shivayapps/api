@@ -4,3 +4,26 @@ developer
 
 windows-user
 ZdtxOGAGA9tQT5Fb
+
+--------------------------------------
+1. On the home screen under AI Video Effects, the text ‘From shot to Alive’ is not good. Also, reduce the size of the ‘Try Now’ button.
+2. Remove phone controls through the app, I unable to use features because of phone controls.
+3. I opened the face swap category, but the top heading shows ‘faceswapping’. Change it to a normal heading.
+4. When I click on Filter, the Men, Women, and All options are shown. When this menu is open, change the filter icon to an ‘X’ so the user can close what they opened.
+5. In the face swap templates, the preview of some templates is cutting off the head, because of size of template.
+6. Network exceptions are not being handled. Please recheck and confirm if all exceptions are properly handled.
+7. The image I selected in Face Swap is appearing in Object Removal. In Background Removal, the on click back button is taking user to gallery, and the remove object functionality is not working.
+8. When I click back from the home screen, it goes to the splash screen and then the onboarding again. It should work like: ‘Do you want to exit?’ instead.
+9. In result screen preview is not there and keep home icon in right corner and give functionality to go home.
+10. In the face swap templates, if the user clicks on Generate without selecting an image it is processing.
+11. The background changer is not working as a background changer; it is behaving like back ground removal.
+12. In baby generator, boy and girl, UI is different keep same UI.
+13. When the image is processing, the back button is working. Restrict it.
+14. remove unnecessary toasts
+15. Face Dance result failed. The current back-flow is Result → Processing → Template. Change this flow to the normal one.
+16. On the home screen, both the menu icon (three lines) and the settings icon are available. If both are for settings, keep only one.
+17. After processing the image, an ANR occurred and a dialog appeared showing ‘App Info’ and ‘Close App'.
+18. In Object Removal, even without selecting an image, it is still allowing color selection on the screen.
+19. In the settings screen, not even one functionality is working.
+2o. The created creations are not appearing in the Creations section.
+21. For AI videos, the crop size is 3:4 change crop, both the result screen and the result are not showing.
