@@ -28,5 +28,21 @@ ZdtxOGAGA9tQT5Fb
 2o. The created creations are not appearing in the Creations section.
 21. For AI videos, the crop size is 3:4 change crop, both the result screen and the result are not showing.
 
-https://www.net/dl/20251214Ie67vOiI
-
+Functional issues:
+1. In settings screen back button is not responding.
+2. Unable to open anything in settings screens, showing toasts as creations clicked, saved videos clicked.
+3. In home screen left menu is not responding when clicked.
+4. when clicked on object remover, remove objects screen is shown and when clicked back choose photo screen is shown. Unable to go back from these 2 screens using app back buttons.
+5. When clicked on back button using bottom navigations then it is moving to get started screen and onboardings are also shown.
+6. For every launch onboardings are shown.
+7. In face swap when clicked on generate without selecting any image then showing toast as upload successful and result is also generated
+8. When men/women filter applied in face swap then showing blank screen.
+9. After reaching top templates if we scroll down then it is moving to next category.
+10. In home screen when clicked on any faceswap category, carnival templates are opening.
+11. Need to highlight camera and gallery option in choose photo screen.
+12. When clicked on back in result screen processing screen is shown.
+13. In transformation when clicked on see all and select any template then it is navigating back to home screen.
+14. Getting same results for all templates in transformation.
+15. In result screen also no video is shown, blank screen is shown. And when clicked on generate showing toast as upload successful :result id.
+16. For ai videos got successful response toast and in result showed as no server dialogue. 
+17. Back  button is not working in AI video effects screen.
