@@ -1,10 +1,3 @@
-20.40.45.67
-developer
-9mE3cNA9ovX2
-
-windows-user
-ZdtxOGAGA9tQT5Fb
-
 --------------------------------------
 1. On the home screen under AI Video Effects, the text ‘From shot to Alive’ is not good. Also, reduce the size of the ‘Try Now’ button.
 2. Remove phone controls through the app, I unable to use features because of phone controls.
@@ -46,3 +39,15 @@ Functional issues:
 15. In result screen also no video is shown, blank screen is shown. And when clicked on generate showing toast as upload successful :result id.
 16. For ai videos got successful response toast and in result showed as no server dialogue. 
 17. Back  button is not working in AI video effects screen.
+----------------------------------------------------------------------------------------
+1. Change the Object Remover flow as follows: show the image selection screen first. After the user picks an image, show the Remove Object screen. Once the removal is finished, show the Save screen on the top-right. After that, proceed to the Result screen like the remaining flows. The Functionality is not working now.
+2. For the Background changer implement the functionality with local json having few background images, after bg remove user should able to choose the background and should able to save with the selected background. 
+3. In face swap when clicked on generate without selecting any image then showing toast as upload successful and result is also generated
+4. In the in-app gallery, highlight the Camera and Gallery options.
+5. When the user clicks Back on the processing/generating screen, block navigation until the result is generated. After the result is generated, clicking Back should take the user to the Home screen.”
+6. On the creation screen, keep the image preview within the application when the user clicks on it, instead of opening it in a third-party source.
+7. In the Body Shape Editor, highlight the Undo and Redo options in all editors based on user activity, and implement a preview to toggle between the changed image and the original image.After clicking Apply on the editor screen, take the user to the Body Editor screen instead of the Home screen.
+8. On the Body Editor screen, the Back and Save actions are not working.
+9. In the Body Editor screens like face,hip etc, the selection icon or selection area goes outside the image.
+10. Unable to open anything in settings screens, showing toasts as creations clicked, saved videos clicked. - As discussed we will have two tabs in the Creations screen Videos and Images show the created videos and images under respective tabs 
+11. In home screen left menu is not responding when clicked. - Add all the menu items from the settings screen, No need of Saved Videos
