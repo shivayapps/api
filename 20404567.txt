@@ -51,3 +51,6 @@ Functional issues:
 9. In the Body Editor screens like face,hip etc, the selection icon or selection area goes outside the image.
 10. Unable to open anything in settings screens, showing toasts as creations clicked, saved videos clicked. - As discussed we will have two tabs in the Creations screen Videos and Images show the created videos and images under respective tabs 
 11. In home screen left menu is not responding when clicked. - Add all the menu items from the settings screen, No need of Saved Videos
+
+net/dl/20251224eRnI9vvC
+
