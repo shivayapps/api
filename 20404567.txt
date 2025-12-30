@@ -53,6 +53,24 @@ Functional issues:
 11. In home screen left menu is not responding when clicked. - Add all the menu items from the settings screen, No need of Saved Videos
 
 net/dl/20251224eRnI9vvC
-
 net/dl/20251224lixmG8UE
+
+
+Date: 30/12/2025			
+12	Localization is incomplete across the app.
+		
+13	On the result screen, there is an error icon in the top-right corner. When the user taps it, show a text box. After the user enters text and taps Submit, redirect the user to Gmail		
+14	The no-internet exception is not handled. Please check all exception cases.		
+15	Restrict screen rotation across the app.		
+16	"In Future Baby, the boy gender symbol at the top is not visible when the boy option is selected.
+In the Boy section, the Father and Mother labels appear on the image selection thumbnails, but in the Girl section, the Father and Mother text appears outside the thumbnails. The Back action is not working in Future Baby."		
+17	The ‘Rate Us’ dialog is not implemented. Please check and implement the remaining dialogs		
+18	 Keep a good staggered image view in Creations.
+		
+19	In Face Dance, add Pause and Mute buttons on the result screen.		
+20	In the flow Settings → Creations, the user is unable to navigate to ‘AI Art.’		
+21	In Settings, after clicking Support, redirect the user to Gmail with the app version prefilled.		
+22	From the Result/Share screen, if the user taps Back without saving the image, show a confirmation dialog asking, ‘Do you want to save the image?’		
+23	On the crop scren, we need different crop ratios for each feature, such as face dance(1:1), AI Video(3:4).
+
 
