@@ -52,8 +52,7 @@ Functional issues:
 10. Unable to open anything in settings screens, showing toasts as creations clicked, saved videos clicked. - As discussed we will have two tabs in the Creations screen Videos and Images show the created videos and images under respective tabs 
 11. In home screen left menu is not responding when clicked. - Add all the menu items from the settings screen, No need of Saved Videos
 
-net/dl/20251224eRnI9vvC
-net/dl/20251224lixmG8UE
+net/en/cld?utm_source=20260104CS3WqkHw
 
 
 Date: 30/12/2025			
@@ -72,5 +71,6 @@ In the Boy section, the Father and Mother labels appear on the image selection t
 21	In Settings, after clicking Support, redirect the user to Gmail with the app version prefilled.		
 22	From the Result/Share screen, if the user taps Back without saving the image, show a confirmation dialog asking, ‘Do you want to save the image?’		
 23	On the crop scren, we need different crop ratios for each feature, such as face dance(1:1), AI Video(3:4).
+
 
 
