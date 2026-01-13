@@ -1,76 +1,11 @@
---------------------------------------
-1. On the home screen under AI Video Effects, the text ‘From shot to Alive’ is not good. Also, reduce the size of the ‘Try Now’ button.
-2. Remove phone controls through the app, I unable to use features because of phone controls.
-3. I opened the face swap category, but the top heading shows ‘faceswapping’. Change it to a normal heading.
-4. When I click on Filter, the Men, Women, and All options are shown. When this menu is open, change the filter icon to an ‘X’ so the user can close what they opened.
-5. In the face swap templates, the preview of some templates is cutting off the head, because of size of template.
-6. Network exceptions are not being handled. Please recheck and confirm if all exceptions are properly handled.
-7. The image I selected in Face Swap is appearing in Object Removal. In Background Removal, the on click back button is taking user to gallery, and the remove object functionality is not working.
-8. When I click back from the home screen, it goes to the splash screen and then the onboarding again. It should work like: ‘Do you want to exit?’ instead.
-9. In result screen preview is not there and keep home icon in right corner and give functionality to go home.
-10. In the face swap templates, if the user clicks on Generate without selecting an image it is processing.
-11. The background changer is not working as a background changer; it is behaving like back ground removal.
-12. In baby generator, boy and girl, UI is different keep same UI.
-13. When the image is processing, the back button is working. Restrict it.
-14. remove unnecessary toasts
-15. Face Dance result failed. The current back-flow is Result → Processing → Template. Change this flow to the normal one.
-16. On the home screen, both the menu icon (three lines) and the settings icon are available. If both are for settings, keep only one.
-17. After processing the image, an ANR occurred and a dialog appeared showing ‘App Info’ and ‘Close App'.
-18. In Object Removal, even without selecting an image, it is still allowing color selection on the screen.
-19. In the settings screen, not even one functionality is working.
-2o. The created creations are not appearing in the Creations section.
-21. For AI videos, the crop size is 3:4 change crop, both the result screen and the result are not showing.
+Face dance
+https://facedance.fra1.cdn.digitaloceanspaces.com/iMagic_FaceDance_videos/iMagicFaceDance4.webp
+https://facedance.fra1.cdn.digitaloceanspaces.com/Mp4/iMagic_FaceDance_videos/iMagicFaceDance4.mp4
+Use the folder name path and file extension as shown in the above URLs.
+https://facedance.fra1.cdn.digitaloceanspaces.com/Mp4/
+https://facedance.fra1.cdn.digitaloceanspaces.com/Mp4/+ folder+/+filename+.mp4
 
-Functional issues:
-1. In settings screen back button is not responding.
-2. Unable to open anything in settings screens, showing toasts as creations clicked, saved videos clicked.
-3. In home screen left menu is not responding when clicked.
-4. when clicked on object remover, remove objects screen is shown and when clicked back choose photo screen is shown. Unable to go back from these 2 screens using app back buttons.
-5. When clicked on back button using bottom navigations then it is moving to get started screen and onboardings are also shown.
-6. For every launch onboardings are shown.
-7. In face swap when clicked on generate without selecting any image then showing toast as upload successful and result is also generated
-8. When men/women filter applied in face swap then showing blank screen.
-9. After reaching top templates if we scroll down then it is moving to next category.
-10. In home screen when clicked on any faceswap category, carnival templates are opening.
-11. Need to highlight camera and gallery option in choose photo screen.
-12. When clicked on back in result screen processing screen is shown.
-13. In transformation when clicked on see all and select any template then it is navigating back to home screen.
-14. Getting same results for all templates in transformation.
-15. In result screen also no video is shown, blank screen is shown. And when clicked on generate showing toast as upload successful :result id.
-16. For ai videos got successful response toast and in result showed as no server dialogue. 
-17. Back  button is not working in AI video effects screen.
-----------------------------------------------------------------------------------------
-1. Change the Object Remover flow as follows: show the image selection screen first. After the user picks an image, show the Remove Object screen. Once the removal is finished, show the Save screen on the top-right. After that, proceed to the Result screen like the remaining flows. The Functionality is not working now.
-2. For the Background changer implement the functionality with local json having few background images, after bg remove user should able to choose the background and should able to save with the selected background. 
-3. In face swap when clicked on generate without selecting any image then showing toast as upload successful and result is also generated
-4. In the in-app gallery, highlight the Camera and Gallery options.
-5. When the user clicks Back on the processing/generating screen, block navigation until the result is generated. After the result is generated, clicking Back should take the user to the Home screen.”
-6. On the creation screen, keep the image preview within the application when the user clicks on it, instead of opening it in a third-party source.
-7. In the Body Shape Editor, highlight the Undo and Redo options in all editors based on user activity, and implement a preview to toggle between the changed image and the original image.After clicking Apply on the editor screen, take the user to the Body Editor screen instead of the Home screen.
-8. On the Body Editor screen, the Back and Save actions are not working.
-9. In the Body Editor screens like face,hip etc, the selection icon or selection area goes outside the image.
-10. Unable to open anything in settings screens, showing toasts as creations clicked, saved videos clicked. - As discussed we will have two tabs in the Creations screen Videos and Images show the created videos and images under respective tabs 
-11. In home screen left menu is not responding when clicked. - Add all the menu items from the settings screen, No need of Saved Videos
-
-net/en/cld?utm_source=20260104CS3WqkHw
-
-
-Date: 30/12/2025			
-12	Localization is incomplete across the app.
-		
-13	On the result screen, there is an error icon in the top-right corner. When the user taps it, show a text box. After the user enters text and taps Submit, redirect the user to Gmail		
-14	The no-internet exception is not handled. Please check all exception cases.		
-15	Restrict screen rotation across the app.		
-16	"In Future Baby, the boy gender symbol at the top is not visible when the boy option is selected.
-In the Boy section, the Father and Mother labels appear on the image selection thumbnails, but in the Girl section, the Father and Mother text appears outside the thumbnails. The Back action is not working in Future Baby."		
-17	The ‘Rate Us’ dialog is not implemented. Please check and implement the remaining dialogs		
-18	 Keep a good staggered image view in Creations.
-		
-19	In Face Dance, add Pause and Mute buttons on the result screen.		
-20	In the flow Settings → Creations, the user is unable to navigate to ‘AI Art.’		
-21	In Settings, after clicking Support, redirect the user to Gmail with the app version prefilled.		
-22	From the Result/Share screen, if the user taps Back without saving the image, show a confirmation dialog asking, ‘Do you want to save the image?’		
-23	On the crop scren, we need different crop ratios for each feature, such as face dance(1:1), AI Video(3:4).
-
-
-
+Face swap images
+all_face
+men_face
+women_face
