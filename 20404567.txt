@@ -1,11 +1,14 @@
-Face dance
-https://facedance.fra1.cdn.digitaloceanspaces.com/iMagic_FaceDance_videos/iMagicFaceDance4.webp
-https://facedance.fra1.cdn.digitaloceanspaces.com/Mp4/iMagic_FaceDance_videos/iMagicFaceDance4.mp4
-Use the folder name path and file extension as shown in the above URLs.
-https://facedance.fra1.cdn.digitaloceanspaces.com/Mp4/
-https://facedance.fra1.cdn.digitaloceanspaces.com/Mp4/+ folder+/+filename+.mp4
+https://docs.google.com/spreadsheets/d/1CNBermXIZwxbaNV10CWYBpEcHqXaTeC3uIuWfhoJ7S8/edit?gid=2121712201#gid=2121712201
 
-Face swap images
-all_face
-men_face
-women_face
+
+1	"After opening Internal Storage, there is no option to switch between Grid view and List view.
+Changing the view in other sections (such as Images or Videos) also affects the Files section, which should not happen."	
+2	All file types should open within the same application, including PDFs, images, videos, ZIP files, etc.	
+3	"When navigating through multiple directories, the folder names overlap.
+Please add a background under the Internal Storage section and place the text on top of the background to avoid overlapping."	
+4	"On the Home screen, the font size of “Safe Folder,” “Applications,” and “Trash” does not match the font size used above.
+These labels also appear bold, unlike the others."	
+5	Share and Safe Folder features are not implemented.	
+6	On the Home screen, the usage percentage is missing from the circular progress bar.	
+7	Clicking on privacy policies opens storage analysis.	
+8	In Scan, after clicking Next, show options to select the save format (JPG, PDF, image, etc.), file name, and save directory. Also display recently saved files in list.	
