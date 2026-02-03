@@ -12,3 +12,4 @@ https://github.com/livebloggerofficial/Responsive-App-Website
 
 https://github.com/leavesCZY/WifiP2P
 https://github.com/BilalAndroidDevX/WifiFileTransferDemo
+https://www.figma.com/design/UHpgzFHB5RdhK4Qrk0dW42/messaging-app?node-id=1269-10865&t=f42YKIXUZNy0tYTY-0
