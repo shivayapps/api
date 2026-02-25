@@ -1,12 +1,9 @@
 https://docs.google.com/spreadsheets/d/1CNBermXIZwxbaNV10CWYBpEcHqXaTeC3uIuWfhoJ7S8/edit?gid=2121712201#gid=2121712201
 
 https://github.com/Shubh07-Cs/DocReader
-https://github.com/datobih/Maverick-Share
 https://github.com/ADMusab12/AllDocumentReader
 https://github.com/viettranhoang/demo-word-reader
 https://github.com/Victor2018/DocViewer
-
-https://github.com/datobih/Maverick-Share
 
 https://github.com/livebloggerofficial/Responsive-App-Website
 
@@ -14,17 +11,18 @@ https://github.com/leavesCZY/WifiP2P
 https://github.com/BilalAndroidDevX/WifiFileTransferDemo
 https://www.figma.com/design/UHpgzFHB5RdhK4Qrk0dW42/messaging-app?node-id=1269-10865&t=f42YKIXUZNy0tYTY-0
 
-English
-Spanish
-Portuguese (Brazil)
-Indonesian
-Turkish
-Hindi
-Arabic
-Russian
-Vietnamese
-Thai
-German
-French
-Italian
-
+1. When deleted images from preview, until closed and opened app the list is not updating.
+2. In some devices the size of folders is showing 0 B every time. But when I reopened and changed theme from Dark->White->Dark then those values are displaying.
+3. When I shared image from share option, after completing there is no confirmation message or toast that it has been successful.
+4. App freezes then crashes, when clicked on search and typed value.
+5. In some screens, the header text color is blending to background color.
+6. On 2nd launch it is taking time to go to home screen, when clicked on icon then displaying blank screen for 3-4 seconds then displaying home screen.
+7. After previewing image, more has no functionality, when clicked share in preview displaying blank screen and not responding.
+8. In recent, if there is apk after 2 images then clicked on 4th place that is image it is displaying 5th image.
+9. In videos, while playing video when clicked on next/forward or back/previous there is no functionality. 
+10. While playing videos, need to show in full screen. The videos are not playing in full screen according to their size.
+11. When changed language, the flow is coming from onboarding but it should be like after changing language and applied it need to go to home screen. 
+12. For some texts localization is not done properly.
+13. When changed to Arabic then whole layout is shifting to left.
+14. In the below attached screenshots, the 0 B and the values displaying are on same device.
+@Mahindra check these functionality issue in file manager
