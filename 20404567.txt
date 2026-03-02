@@ -1,4 +1,5 @@
-https://www.figma.com/design/KoeprPCRmfHYqRV5v8ZuKX/File-Manager?node-id=869-982&p=f&t=18SuihZaLQbLcIYX-0https://www.figma.com/design/UHpgzFHB5RdhK4Qrk0dW42/messaging-app?node-id=0-1&p=f&t=aUOcL4kfycFebtab-0
+https://www.figma.com/design/KoeprPCRmfHYqRV5v8ZuKX/File-Manager?node-id=869-982&p=f&t=18SuihZaLQbLcIYX-0
+https://www.figma.com/design/UHpgzFHB5RdhK4Qrk0dW42/messaging-app?node-id=0-1&p=f&t=aUOcL4kfycFebtab-0
 https://docs.google.com/spreadsheets/d/1CNBermXIZwxbaNV10CWYBpEcHqXaTeC3uIuWfhoJ7S8/edit?gid=2121712201#gid=2121712201
 
 https://github.com/Shubh07-Cs/DocReader
@@ -26,4 +27,5 @@ https://github.com/BilalAndroidDevX/WifiFileTransferDemo
 13. When changed to Arabic then whole layout is shifting to left.
 14. In the below attached screenshots, the 0 B and the values displaying are on same device.
 @Mahindra check these functionality issue in file manager
+
 
