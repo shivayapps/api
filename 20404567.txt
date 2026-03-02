@@ -12,20 +12,15 @@ https://github.com/livebloggerofficial/Responsive-App-Website
 https://github.com/leavesCZY/WifiP2P
 https://github.com/BilalAndroidDevX/WifiFileTransferDemo
 
-1. When deleted images from preview, until closed and opened app the list is not updating.
-2. In some devices the size of folders is showing 0 B every time. But when I reopened and changed theme from Dark->White->Dark then those values are displaying.
-3. When I shared image from share option, after completing there is no confirmation message or toast that it has been successful.
-4. App freezes then crashes, when clicked on search and typed value.
-5. In some screens, the header text color is blending to background color.
-6. On 2nd launch it is taking time to go to home screen, when clicked on icon then displaying blank screen for 3-4 seconds then displaying home screen.
-7. After previewing image, more has no functionality, when clicked share in preview displaying blank screen and not responding.
-8. In recent, if there is apk after 2 images then clicked on 4th place that is image it is displaying 5th image.
-9. In videos, while playing video when clicked on next/forward or back/previous there is no functionality. 
-10. While playing videos, need to show in full screen. The videos are not playing in full screen according to their size.
-11. When changed language, the flow is coming from onboarding but it should be like after changing language and applied it need to go to home screen. 
-12. For some texts localization is not done properly.
-13. When changed to Arabic then whole layout is shifting to left.
-14. In the below attached screenshots, the 0 B and the values displaying are on same device.
-@Mahindra check these functionality issue in file manager
+1. I have pictures and other files in 'Recently Accessed,' but when I click an image, it doesn't open the one I selected. check the indexing for these images.
+2. Preview image/video
+ a. Clicking delete should ask for confirmation
+ b. clicking share is not working, just refreshing the list
+ c. When I search for something, open an image or video, and then click delete, a black screen appears after the file is deleted.
+ d. Show a toast message after deleting. Deleted image is still there
+3. Every time I click 'back' from a list, it shows a white screen.
+4. In scan list after clicking three dots, white area is visible.
+5. When I refresh the list, the loader is visible but it won't hide.
+6. Sometimes unable to close interstitial Ad
 
 
