@@ -1,5 +1,6 @@
 https://www.figma.com/design/KoeprPCRmfHYqRV5v8ZuKX/File-Manager?node-id=869-982&p=f&t=18SuihZaLQbLcIYX-0
 https://www.figma.com/design/UHpgzFHB5RdhK4Qrk0dW42/messaging-app?node-id=0-1&p=f&t=aUOcL4kfycFebtab-0
+https://www.figma.com/design/YzfhjQ41OYsSBOX82Zb75T/Gallery-Pro-New?node-id=0-1&p=f&t=pfrGX2qVkMUJkYsY-0
 https://docs.google.com/spreadsheets/d/1CNBermXIZwxbaNV10CWYBpEcHqXaTeC3uIuWfhoJ7S8/edit?gid=2121712201#gid=2121712201
 
 https://github.com/Shubh07-Cs/DocReader
@@ -22,5 +23,16 @@ https://github.com/BilalAndroidDevX/WifiFileTransferDemo
 4. In scan list after clicking three dots, white area is visible.
 5. When I refresh the list, the loader is visible but it won't hide.
 6. Sometimes unable to close interstitial Ad
+//////////////////////////
+1. Preview image/video
+ a. Clicking delete should ask for confirmation
+ b. Deleted is not there in trash.
+2. Secure folder
+ a. unable to unlock the file that i locked 
+ b. When I hide a file, it correctly shows as a file within a folder in the Secure Folder list. However, if I click that folder, it asks me to 'Lock' the folder again instead of just showing the folder inside, show only file
+3. App manager UI - In the App Manager, the font color for 'Last used,' 'Most used,' and 'App size' is black. Please change it to white. Also, check the highlight color when an item is selected.
+4. provide after scanning to share the file, after clicking on 3 dots provide a option.
+This is regrading about file manager
+@184292802068564
 
 
